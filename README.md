@@ -67,7 +67,7 @@ For a permanent installation using Homebrew:
 brew tap jemishavasoya/dev-cleaner
 
 # Install dev-cleaner
-brew install dev-cleaner
+brew install --cask dev-cleaner
 
 # Run the utility
 dev-cleaner
